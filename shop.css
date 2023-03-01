@@ -1,0 +1,38 @@
+body,
+html {
+	height: 100%;
+	width: 100%;
+    font-family: 'Inika', serif;
+    background: url(web-g29bfe4942_1920.jpg) no-repeat center center fixed; 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+    background-size: cover;
+}
+h1{
+	color:#FFC2AA;
+	font-size: 3rem;
+	text-align: center;
+}
+p{
+	text-align: center;
+	color: #FF4900;
+	font-size: 2rem;
+	margin-right: 750px;
+}
+input {
+  border-radius: 5px;
+  padding: 10px;
+  margin-left: 150px
+}
+button {
+  color: #fff; 
+  background: #a0829b;
+  padding: 8px;
+  border-radius: 5px;
+}
+li {
+  color: #fff;
+  margin-left: 150px
+  font-size:1.5rem;
+}
